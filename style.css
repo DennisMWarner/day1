@@ -1,8 +1,13 @@
 h1 {
-  color: red;
-  background-color: blue;
+  color: rgb(8, 3, 37);
+  background-color: rgba(163, 175, 241, 0.897);
 }
 p {
-  color: mediumblue;
-  background-color: royalblue;
+  color: rgb(3, 3, 77);
+}
+.subHead {
+  color: black;
+}
+#facts {
+  color: darkblue;
 }

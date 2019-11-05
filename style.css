@@ -1,5 +1,8 @@
-h1,
-p {
+h1 {
   color: red;
   background-color: blue;
+}
+p {
+  color: mediumblue;
+  background-color: royalblue;
 }
